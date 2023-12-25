@@ -12,6 +12,6 @@ Before coding your homepage, use figma to plan the following:
   + main
   - footer
 * it may also include:
-⋅⋅* aside
-⋅⋅* section
-⋅⋅* article
+ * aside
+ * section
+ * article

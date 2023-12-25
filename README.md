@@ -25,4 +25,6 @@ Before coding your homepage, use Figma to plan the following:
   - colours
   - example content
 
+Check out [my example](https://www.figma.com/file/nZ3QIolfHh0ozfRUhtIwUq/1.-grid_homepage?type=design&node-id=0%3A1&mode=design&t=ikwV595RcP10yNwi-1)
+
 

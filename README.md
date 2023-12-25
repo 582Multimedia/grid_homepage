@@ -15,12 +15,10 @@ Before coding your homepage, use Figma to plan the following:
     * aside
     * section
     * article
-    
 * moodboard with: 
   - fonts
   - colour scheme
   - reference images
-
 * mockup of homepage including:
   - layout
   - fonts

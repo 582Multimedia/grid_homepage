@@ -7,10 +7,10 @@ Create a homepage (web2/index.html) to link to your web2 assignments.
 Before coding your homepage, use figma to plan the following:
 * lo-fi wireframes
 * main elements of your homepage including:
-⋅⋅* nav
-⋅⋅* header
-⋅⋅* main
-⋅⋅* footer
++* nav
+-* header
+++ main
+** footer
 * it may also include:
 ⋅⋅* aside
 ⋅⋅* section
